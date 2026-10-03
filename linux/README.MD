@@ -1,0 +1,1 @@
+# Quantal-AutoClicker for Linux
